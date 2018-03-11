@@ -1,7 +1,14 @@
 ### Learning a uni-variate polynomial using the power of adaptive queries
 
+#### Installation
+```bash
+$ npm install
+```
+
+#### Run the guesser
+
 ```Javascript
-$ [~] > node guess.js
+$ node guess.js
 What is the value of P(1) ?
 4
 What is the value of P(5) ?

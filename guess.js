@@ -1,5 +1,5 @@
 var readLineSync = require('readline-sync'),
-    generator = require('./polynomial-generator.js'),
+    generator = require('./lib/polynomial-generator.js'),
     p_1,
     N,
     p_N,

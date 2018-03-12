@@ -5,6 +5,8 @@ var readLineSync = require('readline-sync'),
     p_N,
     polynomial;
 
+console.log('Think about a uni-variate polynomial in your head and just answer 2 questions...\n\n');
+console.log('And I will guess your polynomial! Lets go..\n\n');
 
 while(1) {
 	p_1 = readLineSync.question('What is the value of P(1) ?\n');

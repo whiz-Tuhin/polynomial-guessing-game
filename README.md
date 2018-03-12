@@ -8,11 +8,11 @@ $ npm install
 #### Run the guesser
 
 ```Javascript
+$ node guess.js
 Think about a uni-variate polynomial in your head and just answer 2 questions...
 
 And I will guess your polynomial! Lets go..
 
-$ node guess.js
 What is the value of P(1) ?
 4
 What is the value of P(5) ?
